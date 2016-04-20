@@ -8,10 +8,9 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>Teste</title>
+        <link href="estilo.css" type="text/css" rel="stylesheet" />
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <h1> Rodolfo </h1>
     </body>
 </html>
