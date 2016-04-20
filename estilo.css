@@ -1,1 +1,10 @@
-//css de teste
+body {
+    background-color: red;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: grey;
+    background-color: yellow;
+    text-align: center;
+}
